@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01b91201-c7d2-46d6-a9e8-f1916ed5ac8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitinit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hillel_tasks.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hillel_tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Hillel_tasks.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task10/AdditionalTasks10_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task10/AdditionalTasks10_20.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Hillel_tasks" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="SerheyKolesnik &lt;sergey.kolesnik.dnepr@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vr355vwG4JcvaZha0vIQNYwsst" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HomeWork10_2">
+    <configuration name="HomeWork10_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task10.HomeWork10_1" />
+      <module name="Hillel_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task10.HomeWork10_2" />
+      <module name="Hillel_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork10_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task10.HomeWork10_3" />
+      <module name="Hillel_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork922_DZ14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task9.HomeWork922_DZ14" />
+      <module name="Hillel_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork97_DZ14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task9.HomeWork97_DZ14" />
+      <module name="Hillel_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWork10_2" />
+        <item itemvalue="Application.HomeWork10_3" />
+        <item itemvalue="Application.HomeWork10_1" />
+        <item itemvalue="Application.HomeWork922_DZ14" />
+        <item itemvalue="Application.HomeWork97_DZ14" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b91201-c7d2-46d6-a9e8-f1916ed5ac8f" name="Default Changelist" comment="" />
+      <created>1577997199974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577997199974</updated>
+    </task>
+    <task id="LOCAL-00001" summary="исправлен">
+      <created>1579808278606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579808278606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="исправлен">
+      <created>1579809004014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579809004014</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DZ9.1">
+      <created>1579814310310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579814310310</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DZ9_1">
+      <created>1579815024112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579815024112</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DZ9_1">
+      <created>1579815134898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579815134898</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DZ9_1">
+      <created>1579894449132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579894449133</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DZ9_1">
+      <created>1579894524141</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579894524141</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DZ9_2">
+      <created>1579894569243</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579894569243</updated>
+    </task>
+    <task id="LOCAL-00009" summary="DZ9_5">
+      <created>1579895415947</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579895415947</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DZ9_5">
+      <created>1579896207838</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579896207838</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DZ9_5">
+      <created>1579896319174</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579896319174</updated>
+    </task>
+    <task id="LOCAL-00012" summary="DZ9_6">
+      <created>1579896355031</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579896355031</updated>
+    </task>
+    <task id="LOCAL-00013" summary="DZ9_6">
+      <created>1579896558998</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579896558998</updated>
+    </task>
+    <task id="LOCAL-00014" summary="DZ9_6">
+      <created>1579896693910</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579896693910</updated>
+    </task>
+    <task id="LOCAL-00015" summary="DZ9_6">
+      <created>1579897650270</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579897650270</updated>
+    </task>
+    <task id="LOCAL-00016" summary="DZ9_7">
+      <created>1579897671650</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579897671650</updated>
+    </task>
+    <task id="LOCAL-00017" summary="DZ9_22">
+      <created>1579899319774</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1579899319774</updated>
+    </task>
+    <task id="LOCAL-00018" summary="DZ9_22">
+      <created>1579899406377</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1579899406377</updated>
+    </task>
+    <task id="LOCAL-00019" summary="HW10_1">
+      <created>1579960568845</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1579960568845</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="исправлен" />
+    <MESSAGE value="DZ9.1" />
+    <MESSAGE value="DZ9_1" />
+    <MESSAGE value="DZ9_2" />
+    <MESSAGE value="DZ9_5" />
+    <MESSAGE value="DZ9_6" />
+    <MESSAGE value="DZ9_7" />
+    <MESSAGE value="DZ9_22" />
+    <MESSAGE value="HW10_1" />
+    <MESSAGE value="AddTask10" />
+    <option name="LAST_COMMIT_MESSAGE" value="AddTask10" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task5/HomeWork51_DZ9.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task8/HomeWork81_DZ13_part5.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task8/test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
